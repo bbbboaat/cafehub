@@ -80,6 +80,31 @@
 
 </section>
 
+
+<section class="popular" id="popular">
+
+    <h1 class="heading"> most <span>popular</span> food</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <span class="price"> 50-100 THB</span>
+            <img src="image/rc-1.png" alt="">
+            <h3>Banoffee</h3>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+            </div>
+            <a href="" class="btn">order now</a>
+        </div>
+    </div>
+
+
+
+</section>
 <script src="js/script.js"></script>
 </body>
 </html>
