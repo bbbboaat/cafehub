@@ -227,6 +227,14 @@
                 <input type="email" placeholder="email">
             </div>
 
+            <div class="inputBox">
+                <input type="number" placeholder="number">
+                <input type="text" placeholder="note">
+            </div>
+
+            <textarea placeholder="address" name="" id="" cols="30" rows="10"></textarea>
+
+            <input type="submit" value="order now" class="btn">
         </form>
 
     </div>
