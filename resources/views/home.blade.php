@@ -88,9 +88,37 @@
     <div class="box-container">
 
         <div class="box">
-            <span class="price"> 50-100 THB</span>
-            <img src="image/rc-1.png" alt="">
-            <h3>Banoffee</h3>
+            <span class="price"> 99 THB</span>
+            <img src="image/p-1.png" alt="">
+            <h3>Caramel Macchiato</h3>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+            </div>
+            <a href="" class="btn">order now</a>
+        </div>
+
+        <div class="box">
+            <span class="price"> 99 THB</span>
+            <img src="image/p-3.png" alt="">
+            <h3>Panacosta</h3>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+            </div>
+            <a href="" class="btn">order now</a>
+        </div>
+
+        <div class="box">
+            <span class="price"> 99 THB</span>
+            <img src="image/p-2.png" alt="">
+            <h3>Red Velvet</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
