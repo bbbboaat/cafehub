@@ -16,7 +16,7 @@
 
 
 <header>
-    <a href="#" class="logo"><i class="fas fa-utensils"></i>CAFEHUB</a>
+    <a href="#" class="logo"><i class="fa-sharp fa-solid fa-mug-saucer"></i>CAFEHUB</a>
     <div id="menu-bar" class="fas fa-bars"></div>
     <nav class="navbar">
         <a href="#home">HOME</a>
