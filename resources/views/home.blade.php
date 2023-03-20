@@ -17,8 +17,6 @@
 
 <header>
     <a href="#" class="logo"><i class="fas fa-utensils"></i>food</a>
-
-
     <div id="menu-bar" class="fas fa-bars"></div>
     <nav class="navbar">
         <a href="#home">HOME</a>
@@ -27,6 +25,22 @@
         <a href="#bakery">BAKERY</a>
     </nav>
 </header>
+
+
+<section class="home" id="home">
+    <div class="content">
+        <h3>food made with love</h3>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic, eligendi!</p>
+        <a href="#" class="btn">order now</a>
+    </div>
+    <div class="image">
+            <img src="image/coffee.png" alt="">
+        </div>
+
+
+
+</section>
+
 
 <script src="js/script.js"></script>
 </body>

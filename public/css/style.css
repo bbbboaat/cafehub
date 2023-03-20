@@ -32,6 +32,11 @@ body{
     background: #f7f7f7;
 }
 
+section {
+    padding: 2rem 9%;
+}
+
+
 header{
     position:fixed;
     top:0; left: 0; right: 0;
@@ -78,6 +83,45 @@ header .navbar a:hover{
     padding: .5rem 1.5rem;
     display: none;
 }
+
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1.5rem;
+    min-height: 100vh;
+    align-items: center;
+    background:url(../image/home-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.home .content{
+    flex: 1 1 40rem;
+    padding-top: 6.5rem;
+}
+
+.home .image{
+    flex: 1 1 40rem;
+}
+
+.home .image img{
+    width: 100%;
+    padding: 1rem;
+    animation: float 3s linear infinite;
+}
+
+@keyframes float{
+    0%,100% {
+        transform: translateY(0rem);
+    }
+    50%{
+        transform: translateY(3rem);
+    }
+}
+
+
+
 
 
 
