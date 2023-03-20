@@ -20,9 +20,9 @@
     <div id="menu-bar" class="fas fa-bars"></div>
     <nav class="navbar">
         <a href="#home">HOME</a>
-        <a href="#food">FOOD</a>
-        <a href="#reccommend">RECCOMMEND</a>
-        <a href="#bakery">BAKERY</a>
+        <a href="#speciality">SPECIALITY</a>
+        <a href="#popular">POPULAR</a>
+        <a href="#menu">MENU</a>
     </nav>
 </header>
 
@@ -43,7 +43,7 @@
 
 
 
-<section class="speciality" id="specility">
+<section class="speciality" id="speciality">
 
     <h1 class="heading"> our <span>speciality</span></h1>
 
@@ -129,10 +129,73 @@
             <a href="" class="btn">order now</a>
         </div>
     </div>
+</section>
 
+<section class="menu" id="menu">
 
+    <h1 class="heading">our menu <span>gallery</span></h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="image/m-1.png" alt="">
+            <div class="content">
+                <h3>Macchiato</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="image/m-2.png" alt="">
+            <div class="content">
+                <h3>Cappucino</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="image/m-3.png" alt="">
+            <div class="content">
+                <h3>choco latte macchiato</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="image/m-6.png" alt="">
+            <div class="content">
+                <h3>banoffee</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="image/m-5.png" alt="">
+            <div class="content">
+                <h3>panacosta</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="image/m-4.png" alt="">
+            <div class="content">
+                <h3>Red Velvet</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+    </div>
 
 </section>
+
+
+
 <script src="js/script.js"></script>
 </body>
 </html>
