@@ -16,7 +16,7 @@
 
 
 <header>
-    <a href="#" class="logo"><i class="fas fa-utensils"></i>food</a>
+    <a href="#" class="logo"><i class="fas fa-utensils"></i>CAFEHUB</a>
     <div id="menu-bar" class="fas fa-bars"></div>
     <nav class="navbar">
         <a href="#home">HOME</a>
@@ -29,8 +29,8 @@
 
 <section class="home" id="home">
     <div class="content">
-        <h3>food made with love</h3>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic, eligendi!</p>
+        <h3>Lorem ipsum dolor sit.</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut accusamus eum modi voluptatibus, repellat repudiandae excepturi reiciendis perspiciatis harum minima iure cupiditate, alias labore? Laudantium ullam molestiae quaerat blanditiis! Pariatur.</p>
         <a href="#" class="btn">order now</a>
     </div>
     <div class="image">
