@@ -133,7 +133,7 @@
 
 <section class="menu" id="menu">
 
-    <h1 class="heading">our menu <span>gallery</span></h1>
+    <h1 class="heading">our <span>menu </span>gallery</h1>
 
     <div class="box-container">
 
@@ -165,7 +165,7 @@
         </div>
 
         <div class="box">
-            <img src="image/m-6.png" alt="">
+            <img src="image/m-4.png" alt="">
             <div class="content">
                 <h3>banoffee</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
@@ -183,13 +183,32 @@
         </div>
 
         <div class="box">
-            <img src="image/m-4.png" alt="">
+            <img src="image/m-6.png" alt="">
             <div class="content">
                 <h3>Red Velvet</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
                 <a href="" class="btn">order now</a>
             </div>
         </div>
+
+        <div class="box">
+            <img src="image/m-7.png" alt="">
+            <div class="content">
+                <h3>panacosta</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="image/m-8.png" alt="">
+            <div class="content">
+                <h3>Red Velvet</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, optio.</p>
+                <a href="" class="btn">order now</a>
+            </div>
+        </div>
+
     </div>
 
 </section>
