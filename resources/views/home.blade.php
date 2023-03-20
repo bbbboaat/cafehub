@@ -21,7 +21,7 @@
     <nav class="navbar">
         <a href="#home">HOME</a>
         <a href="#food">FOOD</a>
-        <a href="#drink">DRINK</a>
+        <a href="#reccommend">RECCOMMEND</a>
         <a href="#bakery">BAKERY</a>
     </nav>
 </header>
@@ -41,6 +41,44 @@
 
 </section>
 
+
+
+<section class="speciality" id="specility">
+
+    <h1 class="heading"> our <span>speciality</span></h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img class="image" src="image/rc-1.png" alt="">
+            <div class="content">
+                <img src="image/r-1.png" alt="">
+                <h3>drink</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam aut quos dolores quibusdam cumque soluta voluptates recusandae architecto, mollitia quasi.</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <img class="image" src="image/rc-2.png" alt="">
+            <div class="content">
+                <img src="image/r-2.png" alt="">
+                <h3>drink</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam aut quos dolores quibusdam cumque soluta voluptates recusandae architecto, mollitia quasi.</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <img class="image" src="image/rc-1.png" alt="">
+            <div class="content">
+                <img src="image/r-1.png" alt="">
+                <h3>drink</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam aut quos dolores quibusdam cumque soluta voluptates recusandae architecto, mollitia quasi.</p>
+            </div>
+        </div>
+
+    </div>
+
+</section>
 
 <script src="js/script.js"></script>
 </body>
