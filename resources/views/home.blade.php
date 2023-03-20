@@ -17,6 +17,15 @@
 
 <header>
     <a href="#" class="logo"><i class="fas fa-utensils"></i>food</a>
+
+
+    <div id="menu-bar" class="fas fa-bars"></div>
+    <nav class="navbar">
+        <a href="#home">HOME</a>
+        <a href="#food">FOOD</a>
+        <a href="#drink">DRINK</a>
+        <a href="#bakery">BAKERY</a>
+    </nav>
 </header>
 
 <script src="js/script.js"></script>
