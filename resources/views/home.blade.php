@@ -213,15 +213,20 @@
 
 </section>
 
+
+
 <section class="order" id="order">
 
     <h1 class="heading"><span>order</span> now</h1>
+
     <div class="row">
+
         <div class="image">
             <img src="image/order.png" alt="">
         </div>
 
         <form action="">
+
             <div class="inputBox">
                 <input type="text" placeholder="name">
                 <input type="email" placeholder="email">
@@ -250,6 +255,14 @@
 
 </section>
 
+
+<section class="footer">
+
+    <div class="social">
+    <i class="fa-brands fa-facebook"></i>
+    </div>
+
+</section>
 
 
 <script src="js/script.js"></script>
