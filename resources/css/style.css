@@ -62,3 +62,8 @@ header .navbar a:hover{
     color: var(--red);
 
 }
+
+header .navbar a{
+    padding: 10rem;
+}
+
