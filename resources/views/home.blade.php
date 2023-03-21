@@ -29,7 +29,7 @@
 
                     @auth
 
-                        <a href="{{ url('/dashboard') }}" class="btn">Dashboard</a>
+                        <a href="{{ url('/dashboard') }}" class="btn">Profile</a>
                     @else
                         <a href="{{ route('login') }}" class="btn">Log in</a>
 
