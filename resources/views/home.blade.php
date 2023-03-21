@@ -259,7 +259,10 @@
 <section class="footer">
 
     <div class="social">
-    <i class="fa-brands fa-facebook"></i>
+        <a href="" class="btn"><i class="fa-brands fa-facebook"></i></a>
+        <a href="" class="btn"><i class="fa-brands fa-instagram"></i></a>
+        <a href="" class="btn"><i class="fa-brands fa-twitter"></i></a>
+        <a href="" class="btn"><i class="fa-brands fa-line"></i></a>
     </div>
 
 </section>

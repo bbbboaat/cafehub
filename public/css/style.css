@@ -332,6 +332,7 @@ header .navbar a:hover{
 
 
 
+
 @keyframes float{
     0%,100% {
         transform: translateY(0rem);
@@ -411,6 +412,21 @@ header .navbar a:hover{
 .order .row form .btn:hover{
     background:var(--red);
 }
+
+
+.footer{
+    background: #000;
+    text-align: center;
+}
+
+.footer .share{
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
 
 
 
